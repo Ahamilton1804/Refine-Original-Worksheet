@@ -1,0 +1,26 @@
+company,Product_Code,Product_Number,address,name,product_category
+Phillips,p,5,"Groningensingel 147,arnhem,the netherlands",dhr p. jansen,Smartphone
+Phillips,p,43,"Groningensingel 148,arnhem,the netherlands",dhr p. hansen,Smartphone
+Phillips,x,3,"Groningensingel 149,arnhem,the netherlands",dhr j. Gansen,Laptop
+Van Houten,x,34,"Groningensingel 150,arnhem,the netherlands",dhr p. mansen,Laptop
+Phillips,x,12,"Groningensingel 151,arnhem,the netherlands",dhr p. fransen,Laptop
+Phillips,p,23,"Groningensingel 152,arnhem,the netherlands",dhr p. franssen,Smartphone
+Akzo,v,43,"Leeuwardenweg 178,arnhem,the netherlands",dhr p. bansen,TV
+Akzo,v,12,"Leeuwardenweg 179,arnhem,the netherlands",dhr p. vansen,TV
+Akzo,x,5,"Leeuwardenweg 180,arnhem,the netherlands",dhr p. bransen,Laptop
+Akzo,p,34,"Leeuwardenweg 181,arnhem,the netherlands",dhr p. janssen,Tablet
+Akzo,q,5,"Leeuwardenweg 182,arnhem,the netherlands",mevr l.  rokken,Tablet
+Akzo,q,9,"Leeuwardenweg 183,arnhem,the netherlands",mevr l.  lokken,Tablet
+Akzo,x,8,"Leeuwardenweg 184,arnhem,the netherlands",mevr l.  mokken,Laptop
+Phillips,p,56,"Delfzijlstraat 54,arnhem,the netherlands",mevr l.  mokken,Smartphone
+Phillips,v,67,"Delfzijlstraat 55,arnhem,the netherlands",mevr l.  mokken,TV
+Phillips,v,21,"Delfzijlstraat 56,arnhem,the netherlands",mevr l.  mokken,TV
+Van Houten,x,45,"Delfzijlstraat 57,arnhem,the netherlands",mevr l.  sokken,Laptop
+Van Houten,v,56,"Delfzijlstraat 58,arnhem,the netherlands",mevr l.  wokken,TV
+Van Houten,v,65,"Delfzijlstraat 59,arnhem,the netherlands",mevr l.  kokken,TV
+Van Houten,x,21,"Delfzijlstraat 60,arnhem,the netherlands",mevr l.  Bokken,Laptop
+Van Houten,p,23,"Delfzijlstraat 61,arnhem,the netherlands",mevr l.  dokken,Smartphone
+Unilever,x,3,"Jourestraat 23,arnhem,the netherlands",mevr l.  gokken,Laptop
+Unilever,q,4,"Jourestraat 24,arnhem,the netherlands",mevr l.  stokken,Tablet
+Unilever,q,6,"Jourestraat 25,arnhem,the netherlands",mevr l.  rokken,Tablet
+Unilever,q,8,"Jourestraat 26,arnhem,the netherlands",mevr l.  rokken,Tablet
